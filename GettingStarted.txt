@@ -11,3 +11,5 @@ If you are a graphic or web designer and want to keep every version of an image 
 Terminal git is very easy to understand and quite intuitive. Not complicated at all.
 
 Thank heavens for intellij gui. 4 real.
+
+I'm all out of ideas.
